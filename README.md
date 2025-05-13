@@ -1,1 +1,1 @@
-# -Lista-de-Exerc-cios-1---Estudando-as-estruturas-b-sicas.-PraTi-Codifica-Edu
+# -Lista-de-Exercicios-1---Estudando-as-Estruturas-Basicas.-PraTi-Codifica-Edu
